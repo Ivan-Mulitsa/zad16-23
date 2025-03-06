@@ -1,0 +1,38 @@
+p#pogrubione_mulitsa
+{
+  font-size:32px;
+  color:rgb(137, 91, 203);
+}
+
+p#pochylona_mulitsa
+{
+  font-size:37pt;
+  color:rgb(237, 191, 103);
+}
+
+p#index_gorny_mulitsa
+{
+  font-size:1,2cm;
+  color:rgb(157, 141, 23);
+}
+
+p#index_dolny_mulitsa
+{
+  font-size:1.9cm;
+  color:rgb(57,241,223);
+}
+p#mono_mulitsa
+{
+  font-size:40px;
+  color:rgb(29, 221, 103);
+}
+
+p#powiekszenie_mulitsa
+{
+  color:rgb(87, 61, 153);
+}
+
+p#pomniejszenie_mulitsa
+{
+  color:rgb(187,161,53);
+}
